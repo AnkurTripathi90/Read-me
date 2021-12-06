@@ -1,0 +1,2 @@
+# Read-me
+Hi there ! 🤵 I'm a Data enthusiast currently doing my Certification in Data Science and  Machine Learning from IIT Roorkee, quite proficient in python,mysql,pandas and statistics.  🔭 Give me the data I will visualize it for you !. I can crunch the data and provide insights from it which I learnt and practiced during my courses.  👨‍🎓 Holding a Bachelor's Degree in Mechannical Engineering,having a 5 Years  of experience working as Design Engineer in GE, L&amp;T, TOSHIBA etc
